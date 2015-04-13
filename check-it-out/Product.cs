@@ -6,9 +6,6 @@ namespace checkitout
 	{
 		public int price;
 
-//		public int Price = {
-//			get price;
-//		}
 		public int Price() {
 			return price;
 		}
@@ -17,7 +14,6 @@ namespace checkitout
 		{
 			price = 50;
 		}
-
 
 	}
 }
